@@ -4,7 +4,7 @@
 
 ### *Employee Attrition Insights Using Microsoft Excel*
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-Dashboard-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-Dashboard-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Excel%20Project-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
@@ -26,14 +26,14 @@ This dashboard helps HR teams understand why employees leave the organization an
 
 ## 🎯 Objectives
 
-- 👥 Analyze total employees and employee attrition.
-- 📉 Identify the overall attrition rate.
-- 🏢 Compare attrition across different departments.
-- 👨‍💼 Analyze attrition by gender.
-- 🎓 Identify education-wise attrition trends.
-- 🎂 Analyze attrition across age groups.
-- 💍 Compare attrition based on marital status.
-- 📊 Create an interactive dashboard using Excel charts and pivot tables.
+* 👥 Analyze total employees and employee attrition.
+* 📉 Identify the overall attrition rate.
+* 🏢 Compare attrition across different departments.
+* 👨‍💼 Analyze attrition by gender.
+* 🎓 Identify education-wise attrition trends.
+* 🎂 Analyze attrition across age groups.
+* 💍 Compare attrition based on marital status.
+* 📊 Create an interactive dashboard using Excel charts and pivot tables.
 
 ---
 
@@ -43,13 +43,13 @@ This dashboard helps HR teams understand why employees leave the organization an
 
 The dashboard includes key HR performance indicators such as:
 
-| KPI | Description |
-| --- | --- |
-| 👥 Total Employees | Total number of employees in the organization |
-| 🚪 Attrition Count | Number of employees who left the organization |
-| 📉 Attrition Rate | Percentage of employees who left |
-| 👨 Average Age | Average age of employees |
-| 💰 Average Salary | Average employee salary |
+| KPI                        | Description                                     |
+| -------------------------- | ----------------------------------------------- |
+| 👥 Total Employees         | Total number of employees in the organization   |
+| 🚪 Attrition Count         | Number of employees who left the organization   |
+| 📉 Attrition Rate          | Percentage of employees who left                |
+| 👨 Average Age             | Average age of employees                        |
+| 💰 Average Salary          | Average employee salary                         |
 | ⏳ Average Years at Company | Average employee experience in the organization |
 
 ---
@@ -60,9 +60,9 @@ The dashboard includes key HR performance indicators such as:
 
 Displays employee attrition across departments such as:
 
-- Human Resources
-- Research & Development
-- Sales
+* Human Resources
+* Research & Development
+* Sales
 
 This helps identify which department has the highest employee attrition.
 
@@ -70,8 +70,8 @@ This helps identify which department has the highest employee attrition.
 
 Shows employee attrition distribution between:
 
-- 👨 Male
-- 👩 Female
+* 👨 Male
+* 👩 Female
 
 This helps compare attrition patterns by gender.
 
@@ -85,11 +85,11 @@ This helps identify education categories with higher employee turnover.
 
 Shows employee attrition across age groups such as:
 
-- 18–25
-- 26–35
-- 36–45
-- 46–55
-- 55+
+* 18–25
+* 26–35
+* 36–45
+* 46–55
+* 55+
 
 This helps identify which age group has the highest attrition.
 
@@ -97,9 +97,9 @@ This helps identify which age group has the highest attrition.
 
 Analyzes employee attrition based on marital status:
 
-- Single
-- Married
-- Divorced
+* Single
+* Married
+* Divorced
 
 This helps understand employee turnover patterns across different marital status groups.
 
@@ -107,25 +107,25 @@ This helps understand employee turnover patterns across different marital status
 
 ## 🔍 Key Insights
 
-- 📉 Employee attrition can be analyzed department-wise to identify high-risk departments.
-- 🏢 Sales, Research & Development, and Human Resources can be compared for attrition trends.
-- 👨‍💼 Gender-wise analysis helps understand employee turnover distribution.
-- 🎓 Education-wise attrition highlights workforce retention patterns.
-- 🎂 Younger employees may show different attrition patterns compared to experienced employees.
-- 💍 Marital status analysis provides additional demographic insights into employee turnover.
+* 📉 Employee attrition can be analyzed department-wise to identify high-risk departments.
+* 🏢 Sales, Research & Development, and Human Resources can be compared for attrition trends.
+* 👨‍💼 Gender-wise analysis helps understand employee turnover distribution.
+* 🎓 Education-wise attrition highlights workforce retention patterns.
+* 🎂 Younger employees may show different attrition patterns compared to experienced employees.
+* 💍 Marital status analysis provides additional demographic insights into employee turnover.
 
 ---
 
 ## 🛠 Tools & Technologies
 
-| Tool | Purpose |
-| --- | --- |
-| 📗 Microsoft Excel | Dashboard Development |
-| 📊 Pivot Tables | Data Summarization |
-| 📈 Pivot Charts | Data Visualization |
-| 🧮 Excel Formulas | KPI Calculations |
-| 🎨 Conditional Formatting | Dashboard Design |
-| 🐙 GitHub | Project Hosting and Documentation |
+| Tool                      | Purpose                           |
+| ------------------------- | --------------------------------- |
+| 📗 Microsoft Excel        | Dashboard Development             |
+| 📊 Pivot Tables           | Data Summarization                |
+| 📈 Pivot Charts           | Data Visualization                |
+| 🧮 Excel Formulas         | KPI Calculations                  |
+| 🎨 Conditional Formatting | Dashboard Design                  |
+| 🐙 GitHub                 | Project Hosting and Documentation |
 
 ---
 
@@ -133,30 +133,30 @@ This helps understand employee turnover patterns across different marital status
 
 The dataset contains employee-related information including:
 
-- Employee ID
-- Age
-- Gender
-- Department
-- Education
-- Marital Status
-- Job Role
-- Monthly Income
-- Years at Company
-- Attrition Status
+* Employee ID
+* Age
+* Gender
+* Department
+* Education
+* Marital Status
+* Job Role
+* Monthly Income
+* Years at Company
+* Attrition Status
 
 ---
 
 ## 💡 Skills Demonstrated
 
-- ✅ Data Cleaning in Excel
-- ✅ Pivot Tables
-- ✅ Pivot Charts
-- ✅ Excel Formulas
-- ✅ KPI Development
-- ✅ Dashboard Design
-- ✅ HR Data Analysis
-- ✅ Data Visualization
-- ✅ Business Insight Generation
+* ✅ Data Cleaning in Excel
+* ✅ Pivot Tables
+* ✅ Pivot Charts
+* ✅ Excel Formulas
+* ✅ KPI Development
+* ✅ Dashboard Design
+* ✅ HR Data Analysis
+* ✅ Data Visualization
+* ✅ Business Insight Generation
 
 ---
 
@@ -173,8 +173,38 @@ The dataset contains employee-related information including:
 ## 📁 Project Structure
 
 ```text
-HR-Attrition-Analysis-Excel/
+HR-Attrition-Analysis-Dashboard-Excel/
 │
-├── EXCEL PROJECT.xlsx
+├── HR ATTRITION DASHBOARD EXCEL PROJECT.xlsx
 ├── Dashboard_Screenshot.png
 └── README.md
+```
+
+---
+
+## 🔮 Future Enhancements
+
+* [ ] Add job role-wise attrition analysis.
+* [ ] Add salary-wise attrition analysis.
+* [ ] Add overtime impact on attrition.
+* [ ] Add employee satisfaction analysis.
+* [ ] Add interactive slicers for department and gender.
+* [ ] Create a Power BI version of the dashboard.
+
+---
+
+## 👨‍💻 Author
+
+<div align="center">
+
+### Abhishek Chavhan
+
+Aspiring Data Analyst | Excel | Power BI | SQL | Python
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Chavhan-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abhishek-chavhan-4b6924358/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Abhishek%20Chavhan-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
+
+⭐ If you found this project useful, consider giving it a star!
+
+</div>
